@@ -11,7 +11,7 @@ TODO: Add long description of the pod here.
   s.author           = { "Second Hading Networks SL" => "ios@wallapop.com" }
   s.source           = { :git => 'https://github.com/Wallapop/swift-case-paths', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
   s.source_files = 'Sources/**/*.swift'
   s.swift_version = '5.1'
 end
